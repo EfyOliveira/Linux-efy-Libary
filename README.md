@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/Linux-efy-Library)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Uma coleção de scripts e ferramentas para Linux, focada em automação, produtividade e personalização do sistema.
+Uma coleção de ebooks para Linux, focada em automação, produtividade e aprendizados do sistema.
 
 ## 📋 Índice
 
